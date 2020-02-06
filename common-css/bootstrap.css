@@ -2676,11 +2676,47 @@ a.btn.disabled,
 fieldset[disabled] a.btn {
   pointer-events: none;
 }
+.btn-outline-purple {
+  color: #445285;
+  background-image: none;
+  background-color: transparent;
+  border-color: #445285;
+}
+
+.btn-outline-purple:hover {
+  color: #fff;
+  background-color: #445285;
+  border-color: #445285;
+}
+
+.btn-outline-purple:focus, .btn-outline-purple.focus {
+  -webkit-box-shadow: 0 0 0 2px rgb(71, 58, 124, 0.5);
+          box-shadow: 0 0 0 2px rgb(71, 58, 124, 0.5);
+}
+
+.btn-outline-purple.disabled, .btn-outline-purple:disabled {
+  color: #445285;
+  background-color: transparent;
+}
+
+.btn-outline-purple:active, .btn-outline-purple.active,
+.show > .btn-outline-purple.dropdown-toggle {
+  color: #fff;
+  background-color: #445285;
+  border-color: #445285;
+}
+.btn-purple {
+  color: #fff;
+  background-color: #445285;
+  border-color: #445285;
+}
+
+
 
 .btn-primary {
   color: #fff;
-  background-color: #0275d8;
-  border-color: #0275d8;
+  background-color: #445285;
+  border-color: #445285;
 }
 
 .btn-primary:hover {

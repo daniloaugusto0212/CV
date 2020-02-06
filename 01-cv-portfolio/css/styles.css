@@ -141,7 +141,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .intro{ padding: 0 20px; margin-top: 100px; text-align: center; background: #fff; }
 
 .intro .profile-img{ height: 250px; width: 200px; border-radius: 100px; margin: 0 auto; 
-	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px; }
+	overflow: hidden; position: relative; top:  -100px; margin-bottom: -70px; }
 
 .intro .information > li{ display: block; margin: 5px 0; }
 
@@ -167,7 +167,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; }
 
-.portfolio-section .portfolioFilter a.btn{ margin-right: 72px;  }
+.portfolio-section .portfolioFilter a.btn{ margin-right: 10px;  } /*botões*/
 
 .portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
 
@@ -179,7 +179,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
 
-.portfolio-section .col-sm-6{margin-left: -15px;}
+.portfolio-section .col-sm-6{margin-left: -15px ;}
 
 .portfolio-section .radial-prog-area{margin-right: 10px;}
 /* ---------------------------------
@@ -194,7 +194,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .radial-progress .progressbar-text:after{ content:'%'; }
 
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
-	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
+	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777;}
 
 	
 
