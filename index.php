@@ -350,7 +350,7 @@ if (isset($_GET['url']) && $_GET['url'] == 'guar') {
                 <div class="col-sm-8">
 
                     <div class="experience margin-b-50">
-                        <h4><b>AGÊCIA ECOS</b></h4>
+                        <h4><b>AGÊNCIA ECOS</b></h4>
                         <h5 class="font-yellow"><b>DESENVOLVEDOR WEB FULLSTACK</b></h5>
                         <h6 class="margin-t-10">NOVEMBRO/2021 - PRESENTE</h6>
                         <p class="font-semi-white margin-tb-30">Atuando como Desenvolvedor FullStack PHP </p>
